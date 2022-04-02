@@ -15,6 +15,7 @@ public class TouchControls : MonoBehaviour //, IPointerDownHandler, IPointerUpHa
 
     public bool isArMode = false;
     private bool _isDragging = false;
+    public GameObject ShadowPlane;
 
     private void Start()
     {
@@ -76,9 +77,9 @@ public class TouchControls : MonoBehaviour //, IPointerDownHandler, IPointerUpHa
                 float deltaMagnitudeDiff = prevTouchDeltaMag - touchDeltaMag;
 
                 obJectToRotate.transform.localScale += Vector3.one * (deltaMagnitudeDiff * ZoomSpeed);
-
+                
                 float tempScale = Mathf.Clamp(obJectToRotate.transform.localScale.x, minZoom, maxZoom);
-
+                ShadowPlane.transform.position = obJectToRotate.transform.position - tempScale * Vector3.up;
                 obJectToRotate.transform.localScale = (Vector3.one) * tempScale;
                 
                 obJectToRotate.transform.Rotate(0, -touchOne.deltaPosition.x * rotationRate, 0, Space.World);

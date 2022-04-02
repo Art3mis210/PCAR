@@ -2,9 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "Processor", menuName = "ScriptableObjects/Processor", order = 0)]
-public class Processor : ScriptableObject
+public class Processor : MonoBehaviour
 {
-    public string Model;
-    public string Slot;
+    public string CPUSocket;
+    public string RamType;
+    public float PCIESlot;
+
+    void Start()
+    {
+        
+    }
 }
