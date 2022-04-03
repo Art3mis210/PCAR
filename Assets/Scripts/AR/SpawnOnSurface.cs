@@ -9,7 +9,7 @@ public class SpawnOnSurface : MonoBehaviour
     public ARRaycastManager RaycastManager;
     public GameObject objectPrefab;
 
-    private GameObject _spawnedGameObject;
+    public GameObject _spawnedGameObject;
     public GameObject Reticle;
     public Camera ARCamera;
     public ARCameraManager arCameraManager;
