@@ -30,7 +30,7 @@ public class TouchControls : MonoBehaviour //, IPointerDownHandler, IPointerUpHa
         }
         
 
-        if (_isDragging && obJectToRotate != null && isArMode)
+        if (_isDragging && obJectToRotate != null /*&& isArMode*/)
         {
             if (Input.touchCount == 1)
             {
@@ -77,13 +77,14 @@ public class TouchControls : MonoBehaviour //, IPointerDownHandler, IPointerUpHa
                 float deltaMagnitudeDiff = prevTouchDeltaMag - touchDeltaMag;
 
                 obJectToRotate.transform.localScale += Vector3.one * (deltaMagnitudeDiff * ZoomSpeed);
-                
+
                 float tempScale = Mathf.Clamp(obJectToRotate.transform.localScale.x, minZoom, maxZoom);
-                ShadowPlane.transform.position = obJectToRotate.transform.position - tempScale * Vector3.up;
+                if(ShadowPlane!=null)
+                    ShadowPlane.transform.position = obJectToRotate.transform.position - tempScale * Vector3.up;
                 obJectToRotate.transform.localScale = (Vector3.one) * tempScale;
-                
+
                 obJectToRotate.transform.Rotate(0, -touchOne.deltaPosition.x * rotationRate, 0, Space.World);
-                
+
             }
             else if (Input.touchCount == 3) // || Input.GetMouseButton(1)) // Handling in PlaceOnPlane, Only for AR mode
             {
@@ -96,5 +97,6 @@ public class TouchControls : MonoBehaviour //, IPointerDownHandler, IPointerUpHa
 
             }
         }
+        
     }
 }

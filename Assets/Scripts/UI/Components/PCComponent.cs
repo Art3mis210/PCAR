@@ -28,5 +28,9 @@ public class PCComponent : MonoBehaviour
     {
         startAR.ChangeARPrefab(ComponentPrefab);
     }
+    public void ViewIn3D()
+    {
+        startAR.Change3DPrefab(ComponentPrefab);
+    }
 
 }

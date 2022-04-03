@@ -27,6 +27,7 @@ public class SpawnOnSurface : MonoBehaviour
                     {
                         _spawnedGameObject = Instantiate(objectPrefab, hits[0].pose.position, hits[0].pose.rotation);
                         _spawnedGameObject.GetComponent<TouchControls>().ShadowPlane = ShadowPlane;
+                        _spawnedGameObject.GetComponent<TouchControls>().isArMode = true;
                         ShadowPlane.transform.position = hits[0].pose.position - Vector3.up;
                         Debug.Log("Object Created");
                         Reticle.SetActive(false);
