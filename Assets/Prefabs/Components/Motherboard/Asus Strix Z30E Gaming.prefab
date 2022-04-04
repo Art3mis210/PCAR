@@ -31226,7 +31226,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7766036656016559266}
-  - component: {fileID: 7766036656016559265}
   - component: {fileID: 6296942056019741443}
   m_Layer: 0
   m_Name: Asus Strix Z30E Gaming
@@ -31256,22 +31255,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7766036656016559265
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7766036656016559267}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4699a0f00985b74083d098043724e28, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CanRotate: 1
-  CanScale: 1
-  minScale: 1
-  MaxScale: 5
 --- !u!114 &6296942056019741443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31285,6 +31268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isArMode: 1
+  ShadowPlane: {fileID: 0}
 --- !u!1 &7766036656021116932
 GameObject:
   m_ObjectHideFlags: 0
