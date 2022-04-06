@@ -113,6 +113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lain LI PC Case
       objectReference: {fileID: 0}
+    - target: {fileID: 2638146279727177392, guid: c8742ef303d30f742962d96e24eaa7bf, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8464319347269541669, guid: c8742ef303d30f742962d96e24eaa7bf, type: 3}
       propertyPath: m_LocalPosition.y
       value: 17.3
