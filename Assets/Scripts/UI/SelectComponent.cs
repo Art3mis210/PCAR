@@ -37,6 +37,7 @@ public class SelectComponent : MonoBehaviour
     public BuildSpawnThreeD CabinetSpawn;
 
     public Text PriceText;
+    public Text TitleText;
     private void OnEnable()
     {
         CurrentSection = 0;
@@ -81,6 +82,7 @@ public class SelectComponent : MonoBehaviour
         }
         PCComponentList[0].SetActive(true);
         BuildButton.interactable = false;
+        TitleText.text = "Select Motherboard";
     }
     public void SelectMotherboard(PCComponent Motherboard)
     {
@@ -287,6 +289,7 @@ public class SelectComponent : MonoBehaviour
                 NextButton.interactable = false;
                 BuildButton.interactable = true;
             }
+            ChangeTitle();
         }
     }
     public void PreviousSection()
@@ -296,7 +299,25 @@ public class SelectComponent : MonoBehaviour
             PCComponentList[CurrentSection].SetActive(false);
             CurrentSection -= 1;
             PCComponentList[CurrentSection].SetActive(true);
+            ChangeTitle();
         }
+    }
+    public void ChangeTitle()
+    {
+        if (CurrentSection == 0)
+            TitleText.text = "Select Motherboard";
+        else if(CurrentSection == 1)
+            TitleText.text = "Select CPU";
+        else if (CurrentSection == 2)
+            TitleText.text = "Select GPU";
+        else if (CurrentSection == 3)
+            TitleText.text = "Select RAM";
+        else if (CurrentSection == 4)
+            TitleText.text = "Select HDD/SSD";
+        else if (CurrentSection == 5)
+            TitleText.text = "Select Power Supply";
+        else if (CurrentSection == 6)
+            TitleText.text = "Select Cabinet";
     }
 
 }
