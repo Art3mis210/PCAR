@@ -17,11 +17,6 @@ public class Spawner : MonoBehaviour
         if(SpawnedGameObject == null)
         {
             SpawnedGameObject = Instantiate(ObjectPrefab,transform);
-            SpawnedGameObject.GetComponent<TouchControls>().isArMode = false;
-
-        }
-        else
-        {
 
         }
     }

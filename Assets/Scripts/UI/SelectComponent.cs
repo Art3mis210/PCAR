@@ -20,13 +20,21 @@ public class SelectComponent : MonoBehaviour
     private PCComponent PowerSupply;
     private PCComponent Cabinet;
 
-    public BuildSpawn MotherboardSpawn;
-    public BuildSpawn CPUSpawn;
-    public BuildSpawn GPUSpawn;
-    public BuildSpawn RAMSpawn;
-    public BuildSpawn HDDSSDSpawn;
-    public BuildSpawn PowerSupplySpawn;
-    public BuildSpawn CabinetSpawn;
+    public BuildSpawn MotherboardSpawnAR;
+    public BuildSpawn CPUSpawnAR;
+    public BuildSpawn GPUSpawnAR;
+    public BuildSpawn RAMSpawnAR;
+    public BuildSpawn HDDSSDSpawnAR;
+    public BuildSpawn PowerSupplySpawnAR;
+    public BuildSpawn CabinetSpawnAR;
+
+    public BuildSpawnThreeD MotherboardSpawn;
+    public BuildSpawnThreeD CPUSpawn;
+    public BuildSpawnThreeD GPUSpawn;
+    public BuildSpawnThreeD RAMSpawn;
+    public BuildSpawnThreeD HDDSSDSpawn;
+    public BuildSpawnThreeD PowerSupplySpawn;
+    public BuildSpawnThreeD CabinetSpawn;
     private void OnEnable()
     {
         CurrentSection = 0;
@@ -65,6 +73,11 @@ public class SelectComponent : MonoBehaviour
         {
             Destroy(BuildList.transform.GetChild(i).gameObject);
         }
+        foreach(GameObject go in PCComponentList)
+        {
+            go.SetActive(false);
+        }
+        PCComponentList[0].SetActive(true);
         BuildButton.interactable = false;
     }
     public void SelectMotherboard(PCComponent Motherboard)
@@ -182,18 +195,25 @@ public class SelectComponent : MonoBehaviour
     }
     public void AssignBuildPrefabs()
     {
+        MotherboardSpawnAR.SpawnPrefab = Motherboard.ComponentPrefab;
         MotherboardSpawn.SpawnPrefab = Motherboard.ComponentPrefab;
         Instantiate(Motherboard.gameObject, BuildList.transform);
+        CPUSpawnAR.SpawnPrefab = CPU.ComponentPrefab;
         CPUSpawn.SpawnPrefab = CPU.ComponentPrefab;
         Instantiate(CPU.gameObject, BuildList.transform);
+        GPUSpawnAR.SpawnPrefab = GPU.ComponentPrefab;
         GPUSpawn.SpawnPrefab = GPU.ComponentPrefab;
         Instantiate(GPU.gameObject, BuildList.transform);
+        RAMSpawnAR.SpawnPrefab = RAM.ComponentPrefab;
         RAMSpawn.SpawnPrefab = RAM.ComponentPrefab;
         Instantiate(RAM.gameObject, BuildList.transform);
+        HDDSSDSpawnAR.SpawnPrefab = HDDSSD.ComponentPrefab;
         HDDSSDSpawn.SpawnPrefab = HDDSSD.ComponentPrefab;
         Instantiate(HDDSSD.gameObject, BuildList.transform);
+        PowerSupplySpawnAR.SpawnPrefab = PowerSupply.ComponentPrefab;
         PowerSupplySpawn.SpawnPrefab = PowerSupply.ComponentPrefab;
         Instantiate(PowerSupply.gameObject, BuildList.transform);
+        CabinetSpawnAR.SpawnPrefab = Cabinet.ComponentPrefab;
         CabinetSpawn.SpawnPrefab = Cabinet.ComponentPrefab;
         Instantiate(Cabinet.gameObject, BuildList.transform);
 

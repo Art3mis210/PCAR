@@ -8,7 +8,8 @@ public class CanvasScaling : MonoBehaviour
     private CanvasScaler canvasScaler;
     void Start()
     {
-        canvasScaler = GetComponent<CanvasScaler>();
-        canvasScaler.referenceResolution = new Vector2(Screen.width, Screen.height);
+        /*canvasScaler = GetComponent<CanvasScaler>();
+        canvasScaler.referenceResolution = new Vector2(Screen.width, Screen.height);*/
+        
     }
 }
