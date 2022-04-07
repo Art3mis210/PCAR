@@ -14,10 +14,9 @@ public class Spawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(SpawnedGameObject == null)
+        if(SpawnedGameObject == null && ObjectPrefab!=null)
         {
             SpawnedGameObject = Instantiate(ObjectPrefab,transform);
-
         }
     }
     

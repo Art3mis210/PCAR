@@ -12,7 +12,6 @@ public class PCComponent : MonoBehaviour
     public Text ComponentNameText;
     public Text ComponentDescriptionText;
 
-    public Sprite ComponentSprite;
     public Image ComponentImage;
 
     public StartAR startAR;
@@ -22,7 +21,8 @@ public class PCComponent : MonoBehaviour
     {
         ComponentNameText.text = ComponentName;
         ComponentDescriptionText.text = ComponentDescription;
-        //ComponentImage.sprite = ComponentSprite;
+       // if(ComponentImage!=null && ComponentSprite!=null)
+       //     ComponentImage.sprite = ComponentSprite;
     }
     public void ViewInAR()
     {

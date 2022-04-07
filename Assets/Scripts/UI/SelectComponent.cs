@@ -189,7 +189,7 @@ public class SelectComponent : MonoBehaviour
         }
         this.Cabinet = Cabinet;
         this.Cabinet.GetComponentInChildren<Button>().transform.gameObject.SetActive(false);
-
+        NextButton.interactable = true;
         //Build.SetActive(true);
         //transform.parent.gameObject.SetActive(false);
     }
@@ -258,6 +258,7 @@ public class SelectComponent : MonoBehaviour
             }
             else
             {
+                NextButton.interactable = false;
                 BuildButton.interactable = true;
             }
         }
