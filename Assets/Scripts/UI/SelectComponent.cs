@@ -97,7 +97,7 @@ public class SelectComponent : MonoBehaviour
         }
         foreach (RAM ram in PCComponentList[2].GetComponentsInChildren<RAM>(true))
         {
-            if (ram.RamType== Motherboard.GetComponent<Motherboard>().RamType)
+            if (ram.RamType== Motherboard.GetComponent<Motherboard>().RamSlot)
                 ram.transform.gameObject.SetActive(true);
             else
                 ram.transform.gameObject.SetActive(false);
@@ -197,24 +197,45 @@ public class SelectComponent : MonoBehaviour
     {
         MotherboardSpawnAR.SpawnPrefab = Motherboard.ComponentPrefab;
         MotherboardSpawn.SpawnPrefab = Motherboard.ComponentPrefab;
+        MotherboardSpawnAR.GetComponent<Image>().sprite = Motherboard.ComponentImage.sprite;
+        MotherboardSpawn.GetComponent<Image>().sprite = Motherboard.ComponentImage.sprite;
         Instantiate(Motherboard.gameObject, BuildList.transform);
+
+
         CPUSpawnAR.SpawnPrefab = CPU.ComponentPrefab;
         CPUSpawn.SpawnPrefab = CPU.ComponentPrefab;
+        CPUSpawnAR.GetComponent<Image>().sprite = CPU.ComponentImage.sprite;
+        CPUSpawn.GetComponent<Image>().sprite = CPU.ComponentImage.sprite;
         Instantiate(CPU.gameObject, BuildList.transform);
+
         GPUSpawnAR.SpawnPrefab = GPU.ComponentPrefab;
         GPUSpawn.SpawnPrefab = GPU.ComponentPrefab;
+        GPUSpawnAR.GetComponent<Image>().sprite = GPU.ComponentImage.sprite;
+        GPUSpawn.GetComponent<Image>().sprite = GPU.ComponentImage.sprite;
         Instantiate(GPU.gameObject, BuildList.transform);
+
         RAMSpawnAR.SpawnPrefab = RAM.ComponentPrefab;
         RAMSpawn.SpawnPrefab = RAM.ComponentPrefab;
+        RAMSpawnAR.GetComponent<Image>().sprite = RAM.ComponentImage.sprite;
+        RAMSpawn.GetComponent<Image>().sprite = RAM.ComponentImage.sprite;
         Instantiate(RAM.gameObject, BuildList.transform);
+
         HDDSSDSpawnAR.SpawnPrefab = HDDSSD.ComponentPrefab;
         HDDSSDSpawn.SpawnPrefab = HDDSSD.ComponentPrefab;
+        HDDSSDSpawnAR.GetComponent<Image>().sprite = HDDSSD.ComponentImage.sprite;
+        HDDSSDSpawn.GetComponent<Image>().sprite = HDDSSD.ComponentImage.sprite;
         Instantiate(HDDSSD.gameObject, BuildList.transform);
+
         PowerSupplySpawnAR.SpawnPrefab = PowerSupply.ComponentPrefab;
         PowerSupplySpawn.SpawnPrefab = PowerSupply.ComponentPrefab;
+        PowerSupplySpawnAR.GetComponent<Image>().sprite = PowerSupply.ComponentImage.sprite;
+        PowerSupplySpawn.GetComponent<Image>().sprite = PowerSupply.ComponentImage.sprite;
         Instantiate(PowerSupply.gameObject, BuildList.transform);
+
         CabinetSpawnAR.SpawnPrefab = Cabinet.ComponentPrefab;
         CabinetSpawn.SpawnPrefab = Cabinet.ComponentPrefab;
+        CabinetSpawnAR.GetComponent<Image>().sprite = Cabinet.ComponentImage.sprite;
+        CabinetSpawn.GetComponent<Image>().sprite = Cabinet.ComponentImage.sprite;
         Instantiate(Cabinet.gameObject, BuildList.transform);
 
     }

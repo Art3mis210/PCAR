@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class RAM : MonoBehaviour
 {
-    public string RamType;
+    public Motherboard.RamSlotType RamType;
     public float PowerRating;
 }

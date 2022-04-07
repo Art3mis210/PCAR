@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class PCComponent : MonoBehaviour
 {
     public string ComponentName;
+    [TextArea]
     public string ComponentDescription;
     public GameObject ComponentPrefab;
 

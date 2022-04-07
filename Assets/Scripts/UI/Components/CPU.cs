@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class CPU : MonoBehaviour
 {
-    public string CPUSlot;
+    public Motherboard.CPUSlotType CPUSlot;
     public float PowerRating;
 }
