@@ -16,6 +16,7 @@ public class PCComponent : MonoBehaviour
     public Image ComponentImage;
 
     public StartAR startAR;
+    public float Price;
 
 
     void Awake()

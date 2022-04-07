@@ -35,6 +35,8 @@ public class SelectComponent : MonoBehaviour
     public BuildSpawnThreeD HDDSSDSpawn;
     public BuildSpawnThreeD PowerSupplySpawn;
     public BuildSpawnThreeD CabinetSpawn;
+
+    public Text PriceText;
     private void OnEnable()
     {
         CurrentSection = 0;
@@ -237,6 +239,9 @@ public class SelectComponent : MonoBehaviour
         CabinetSpawnAR.GetComponent<Image>().sprite = Cabinet.ComponentImage.sprite;
         CabinetSpawn.GetComponent<Image>().sprite = Cabinet.ComponentImage.sprite;
         Instantiate(Cabinet.gameObject, BuildList.transform);
+
+        float Price = Motherboard.Price + CPU.Price + GPU.Price + RAM.Price + HDDSSD.Price + PowerSupply.Price + PowerSupply.Price;
+        PriceText.text = "Rs " + Price.ToString();
 
     }
     public void NextSection()

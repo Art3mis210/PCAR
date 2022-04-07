@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: c223a77f3a6b239428a93edadf970d85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5662116136292471994
+    second: Scan SpriteSheet_0
+  - first:
+      213: -5037468151825237710
+    second: Scan SpriteSheet_1
+  - first:
+      213: 7826103886785075946
+    second: Scan SpriteSheet_2
+  - first:
+      213: -1728098402248713989
+    second: Scan SpriteSheet_3
+  - first:
+      213: 6767376137202804224
+    second: Scan SpriteSheet_4
+  - first:
+      213: 1014160103985611835
+    second: Scan SpriteSheet_5
+  - first:
+      213: 1904881478857347911
+    second: Scan SpriteSheet_6
+  - first:
+      213: -751341695726228095
+    second: Scan SpriteSheet_7
+  - first:
+      213: 9148749566810669778
+    second: Scan SpriteSheet_8
+  - first:
+      213: 2812216205850541774
+    second: Scan SpriteSheet_9
+  - first:
+      213: -1194470295023249642
+    second: Scan SpriteSheet_10
+  - first:
+      213: 111475501938196254
+    second: Scan SpriteSheet_11
+  - first:
+      213: -4828648705051209362
+    second: Scan SpriteSheet_12
+  - first:
+      213: 5368580466665988202
+    second: Scan SpriteSheet_13
+  - first:
+      213: -2119184331033096942
+    second: Scan SpriteSheet_14
+  - first:
+      213: 2022591646783772677
+    second: Scan SpriteSheet_15
+  - first:
+      213: 7313811056148608476
+    second: Scan SpriteSheet_16
+  - first:
+      213: -3381112390483582842
+    second: Scan SpriteSheet_17
+  - first:
+      213: 2177997789185934845
+    second: Scan SpriteSheet_18
+  - first:
+      213: 6772979141525626653
+    second: Scan SpriteSheet_19
+  - first:
+      213: -8040772794365202158
+    second: Scan SpriteSheet_20
+  - first:
+      213: -5576965397621194746
+    second: Scan SpriteSheet_21
+  - first:
+      213: 5764416892463540557
+    second: Scan SpriteSheet_22
+  - first:
+      213: -764691631783487835
+    second: Scan SpriteSheet_23
+  - first:
+      213: -176645461748447869
+    second: Scan SpriteSheet_24
+  - first:
+      213: -169713480908186394
+    second: Scan SpriteSheet_25
+  - first:
+      213: -1632432876039948364
+    second: Scan SpriteSheet_26
+  - first:
+      213: 339327395910742230
+    second: Scan SpriteSheet_27
+  - first:
+      213: -393181031587431100
+    second: Scan SpriteSheet_28
+  - first:
+      213: 9109025689025417645
+    second: Scan SpriteSheet_29
+  - first:
+      213: 7819216100952167436
+    second: Scan SpriteSheet_30
+  - first:
+      213: -7789994927173011877
+    second: Scan SpriteSheet_31
+  - first:
+      213: -6501885565769934153
+    second: Scan SpriteSheet_32
+  - first:
+      213: -3948013322184881800
+    second: Scan SpriteSheet_33
+  - first:
+      213: -1826762106181349767
+    second: Scan SpriteSheet_34
+  - first:
+      213: -4017210321686935360
+    second: Scan SpriteSheet_35
+  - first:
+      213: 5536075810126816650
+    second: Scan SpriteSheet_36
+  - first:
+      213: -3711693652977832860
+    second: Scan SpriteSheet_37
+  - first:
+      213: -7618838032659522971
+    second: Scan SpriteSheet_38
+  - first:
+      213: 8452600251457995358
+    second: Scan SpriteSheet_39
+  - first:
+      213: 4547051200443714576
+    second: Scan SpriteSheet_40
+  - first:
+      213: 7952946217972564496
+    second: Scan SpriteSheet_41
+  - first:
+      213: -5468351560169829641
+    second: Scan SpriteSheet_42
+  - first:
+      213: -2407583534461984663
+    second: Scan SpriteSheet_43
+  - first:
+      213: -6521499155034576957
+    second: Scan SpriteSheet_44
+  - first:
+      213: 8000113164889217329
+    second: Scan SpriteSheet_45
+  - first:
+      213: 3778958402519708221
+    second: Scan SpriteSheet_46
+  - first:
+      213: -1342667672585592144
+    second: Scan SpriteSheet_47
+  - first:
+      213: -513068404148146415
+    second: Scan SpriteSheet_48
+  - first:
+      213: -3367819249893670167
+    second: Scan SpriteSheet_49
+  - first:
+      213: 6499065689270666887
+    second: Scan SpriteSheet_50
+  - first:
+      213: -8155275467972426666
+    second: Scan SpriteSheet_51
+  - first:
+      213: -2020952140306947955
+    second: Scan SpriteSheet_52
+  - first:
+      213: 3274850350513851361
+    second: Scan SpriteSheet_53
+  - first:
+      213: -7585278323050960467
+    second: Scan SpriteSheet_54
+  - first:
+      213: 2577801271321959650
+    second: Scan SpriteSheet_55
+  - first:
+      213: -1285471642107545031
+    second: Scan SpriteSheet_56
+  - first:
+      213: 7358462204683802109
+    second: Scan SpriteSheet_57
+  - first:
+      213: -7589882623293262015
+    second: Scan SpriteSheet_58
+  - first:
+      213: 5197214384657443479
+    second: Scan SpriteSheet_59
+  - first:
+      213: 4720564062117738390
+    second: Scan SpriteSheet_60
+  - first:
+      213: -1042922824026218580
+    second: Scan SpriteSheet_61
+  - first:
+      213: -2503223388492005120
+    second: Scan SpriteSheet_62
+  - first:
+      213: 5670856676661911272
+    second: Scan SpriteSheet_63
+  - first:
+      213: 7495506104499207161
+    second: Scan SpriteSheet_64
+  - first:
+      213: 5487034401845627644
+    second: Scan SpriteSheet_65
+  - first:
+      213: -2008173139465041301
+    second: Scan SpriteSheet_66
+  - first:
+      213: -1449223225455922824
+    second: Scan SpriteSheet_67
+  - first:
+      213: 8112084383134503111
+    second: Scan SpriteSheet_68
+  - first:
+      213: 3888030380145244440
+    second: Scan SpriteSheet_69
+  - first:
+      213: 7228388438958452300
+    second: Scan SpriteSheet_70
+  - first:
+      213: -4641080481397492472
+    second: Scan SpriteSheet_71
+  - first:
+      213: 1627263019749209071
+    second: Scan SpriteSheet_72
+  - first:
+      213: 4845076173989537495
+    second: Scan SpriteSheet_73
+  - first:
+      213: -1800777465704466201
+    second: Scan SpriteSheet_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scan SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4775
+        width: 695
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab458b470a0e39e40800000000000000
+      internalID: 5662116136292471994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 4775
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239fc13d761571ab0800000000000000
+      internalID: -5037468151825237710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 4775
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead0234508eb9c60800000000000000
+      internalID: 7826103886785075946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 4775
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf89b05b8af8408e0800000000000000
+      internalID: -1728098402248713989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 4775
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ad6fddbc8aed50800000000000000
+      internalID: 6767376137202804224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4436
+        width: 695
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348f67cd35031e00800000000000000
+      internalID: 1014160103985611835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 4436
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743538ecc9f7f6a10800000000000000
+      internalID: 1904881478857347911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 4439
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d6c4165b2b295f0800000000000000
+      internalID: -751341695726228095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 4439
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d242c44243e6fe70800000000000000
+      internalID: 9148749566810669778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 4439
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece715d4dbff60720800000000000000
+      internalID: 2812216205850541774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4103
+        width: 695
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617126268936c6fe0800000000000000
+      internalID: -1194470295023249642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 4103
+        width: 694
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f3f2ed06a0c8100800000000000000
+      internalID: 111475501938196254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 4105
+        width: 697
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d54606913dfcb0800000000000000
+      internalID: -4828648705051209362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 4103
+        width: 697
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602abf8d77018a40800000000000000
+      internalID: 5368580466665988202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 4103
+        width: 694
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc23f24152792e0800000000000000
+      internalID: -2119184331033096942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3762
+        width: 695
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081838f260b11c10800000000000000
+      internalID: 2022591646783772677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3759
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ff04c760ef7560800000000000000
+      internalID: 7313811056148608476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3759
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ed8bd130e311d0800000000000000
+      internalID: -3381112390483582842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3759
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58302237dc93e10800000000000000
+      internalID: 2177997789185934845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3759
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fd3c9f4a47efd50800000000000000
+      internalID: 6772979141525626653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3418
+        width: 695
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211bc30debf696090800000000000000
+      internalID: -8040772794365202158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3418
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600c426d483aa92b0800000000000000
+      internalID: -5576965397621194746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3418
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ec8c5f925fff40800000000000000
+      internalID: 5764416892463540557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3418
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d4dc23054365f0800000000000000
+      internalID: -764691631783487835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3415
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858c4173ed6c8df0800000000000000
+      internalID: -176645461748447869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3077
+        width: 695
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5fd00d7e05adf0800000000000000
+      internalID: -169713480908186394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3077
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b738ffb2fe6859e0800000000000000
+      internalID: -1632432876039948364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3077
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d071dff77885b400800000000000000
+      internalID: 339327395910742230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3074
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d3fc75fe32b8af0800000000000000
+      internalID: -393181031587431100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3074
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1944c3a92c96e70800000000000000
+      internalID: 9109025689025417645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2736
+        width: 695
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d447ad9f638c60800000000000000
+      internalID: 7819216100952167436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2736
+        width: 694
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f1cb03e064e390800000000000000
+      internalID: -7789994927173011877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2736
+        width: 697
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1b02c689a4c5a0800000000000000
+      internalID: -6501885565769934153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2736
+        width: 697
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87909aa0dc6d539c0800000000000000
+      internalID: -3948013322184881800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2736
+        width: 694
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e8ae30b8906a6e0800000000000000
+      internalID: -1826762106181349767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2394
+        width: 695
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c841db1f700048c0800000000000000
+      internalID: -4017210321686935360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2394
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85ed303e9714dc40800000000000000
+      internalID: 5536075810126816650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2394
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2f2bb94a6d7cc0800000000000000
+      internalID: -3711693652977832860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2394
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad716fc23744690800000000000000
+      internalID: -7618838032659522971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2394
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520888152bad4570800000000000000
+      internalID: 8452600251457995358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2056
+        width: 695
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c06f9b9fe5a1f30800000000000000
+      internalID: 4547051200443714576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2056
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0128a00e27a8e5e60800000000000000
+      internalID: 7952946217972564496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2056
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7facf158a338c14b0800000000000000
+      internalID: -5468351560169829641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2056
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9606055088b869ed0800000000000000
+      internalID: -2407583534461984663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2056
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c76725221bfe75a0800000000000000
+      internalID: -6521499155034576957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1716
+        width: 695
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139d52c798c160f60800000000000000
+      internalID: 8000113164889217329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1716
+        width: 694
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d323a2335ae817430800000000000000
+      internalID: 3778958402519708221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1717
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a2249dd2ed5de0800000000000000
+      internalID: -1342667672585592144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1717
+        width: 697
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe549310731e8f0800000000000000
+      internalID: -513068404148146415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1717
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28d565c3a1341d0800000000000000
+      internalID: -3367819249893670167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1378
+        width: 695
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78648e49fc1513a50800000000000000
+      internalID: 6499065689270666887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1378
+        width: 694
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654cb0e9b24a2de80800000000000000
+      internalID: -8155275467972426666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1381
+        width: 697
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8060f06cb224f3e0800000000000000
+      internalID: -2020952140306947955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1381
+        width: 697
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb01fafa0b927d20800000000000000
+      internalID: 3274850350513851361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1383
+        width: 694
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a310cd8dabb690800000000000000
+      internalID: -7585278323050960467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1045
+        width: 695
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec12b6399036c320800000000000000
+      internalID: 2577801271321959650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1042
+        width: 694
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a775b2a56192ee0800000000000000
+      internalID: -1285471642107545031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1040
+        width: 697
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d05b63628e1660800000000000000
+      internalID: 7358462204683802109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1040
+        width: 697
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f1bf87f15ba690800000000000000
+      internalID: -7589882623293262015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1040
+        width: 694
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aae0362f6302840800000000000000
+      internalID: 5197214384657443479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 699
+        width: 695
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b00ef000d28140800000000000000
+      internalID: 4720564062117738390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 699
+        width: 694
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf15c9973bc681f0800000000000000
+      internalID: -1042922824026218580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 696
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010c7f3793c24dd0800000000000000
+      internalID: -2503223388492005120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 696
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed5981a1ee2be40800000000000000
+      internalID: 5670856676661911272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 696
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7272d613650860800000000000000
+      internalID: 7495506104499207161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 355
+        width: 695
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa4b5887bcd52c40800000000000000
+      internalID: 5487034401845627644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 355
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a84be5b298124e0800000000000000
+      internalID: -2008173139465041301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 355
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871347e972353ebe0800000000000000
+      internalID: -1449223225455922824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 355
+        width: 697
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d9bc44c9e39070800000000000000
+      internalID: 8112084383134503111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 355
+        width: 694
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819fb74f70f05f530800000000000000
+      internalID: 3888030380145244440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 14
+        width: 695
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ea8a2dcf4605460800000000000000
+      internalID: 7228388438958452300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 14
+        width: 694
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805bd4444e1979fb0800000000000000
+      internalID: -4641080481397492472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 14
+        width: 697
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f7484813359610800000000000000
+      internalID: 1627263019749209071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 14
+        width: 697
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6ea542c1b2d3340800000000000000
+      internalID: 4845076173989537495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scan SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 14
+        width: 694
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e838259f6a5207e0800000000000000
+      internalID: -1800777465704466201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
